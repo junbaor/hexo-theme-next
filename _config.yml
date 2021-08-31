@@ -993,6 +993,6 @@ vendors:
   canvas_ribbon:
 
 # Assets
-css: css
-js: js
-images: images
+css: //cdn.jsdelivr.net/gh/junbaor/junbaor.github.io@gh-pages/css
+js: //cdn.jsdelivr.net/gh/junbaor/junbaor.github.io@gh-pages/js
+images: //cdn.jsdelivr.net/gh/junbaor/junbaor.github.io@gh-pages/images
