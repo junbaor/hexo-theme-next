@@ -993,5 +993,4 @@ vendors:
 # Assets
 css: //cdn.jsdelivr.net/gh/junbaor/junbaor.github.io@gh-pages/css
 js: //cdn.jsdelivr.net/gh/junbaor/junbaor.github.io@gh-pages/js
-lib: //cdn.jsdelivr.net/gh/junbaor/junbaor.github.io@gh-pages/lib
-images: //cdn.jsdelivr.net/gh/junbaor/junbaor.github.io@gh-pages/images
+images: images
